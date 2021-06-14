@@ -1,0 +1,17 @@
+.home-content{
+    max-width: 768px;
+    margin-inline: auto;
+    padding-block: 20px;
+}
+
+.steps{
+    background-color: #fafafa;
+    border-radius: 20px;
+    padding: 50px;
+    margin-block: 20px;
+}
+
+.steps-buttons{
+    display: flex;
+    justify-content: flex-end;
+}

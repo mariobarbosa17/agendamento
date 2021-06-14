@@ -1,0 +1,21 @@
+.btns-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.search{
+    display: flex;
+    align-items: stretch;
+}
+
+.content-fields{
+    width: 768px;
+    margin: 0 auto;
+}
+
+.content-fields label{
+    height: auto !important;
+    padding-bottom: 0;
+}
