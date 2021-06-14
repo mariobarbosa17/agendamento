@@ -3,7 +3,7 @@ import { Layout, ConfigProvider } from 'antd'
 import { BrowserRouter as Router } from 'react-router-dom'
 
 import 'antd/dist/antd.css'
-import './app.css'
+import './App.css'
 
 import { Navbar } from './components'
 import { Routes } from './routes'
